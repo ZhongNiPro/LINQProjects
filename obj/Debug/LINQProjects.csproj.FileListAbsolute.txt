@@ -1,0 +1,9 @@
+C:\Users\elsid\source\repos\LINQProjects\obj\Debug\LINQProjects.csproj.AssemblyReference.cache
+C:\Users\elsid\source\repos\LINQProjects\obj\Debug\LINQProjects.Properties.Resources.resources
+C:\Users\elsid\source\repos\LINQProjects\obj\Debug\LINQProjects.csproj.GenerateResource.cache
+C:\Users\elsid\source\repos\LINQProjects\obj\Debug\LINQProjects.csproj.CoreCompileInputs.cache
+C:\Users\elsid\source\repos\LINQProjects\LINQProjects.exe.config
+C:\Users\elsid\source\repos\LINQProjects\obj\Debug\LINQProjects.exe
+C:\Users\elsid\source\repos\LINQProjects\obj\Debug\LINQProjects.pdb
+C:\Users\elsid\source\repos\LINQProjects\LINQProjects.exe
+C:\Users\elsid\source\repos\LINQProjects\LINQProjects.pdb
