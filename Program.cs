@@ -87,8 +87,8 @@ namespace LINQProjects
 
         public List<Prisoner> Fill()
         {
-            IPrisonersFactory _factory = new PrisonersFactory();
-            List<Prisoner> prisoners = _factory.Create();
+            IPrisonersFactory factory = new PrisonersFactory();
+            List<Prisoner> prisoners = factory.Create();
 
             return prisoners;
         }
